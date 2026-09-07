@@ -1,7 +1,7 @@
 # guitar
 My attempts on guitar effects! :D
 
-- tremolo
+### tremolo
 Actually, the hardest parts were my first encounter with LTspice, and to be precise with ideal mathematical simulations;
 as it turns out, building such a circuit with real components doesn't guarantee that it will actually work!
 The next reality check came when I tried etching a PCB at home using sodium persulfate, the board turned out fine, but I'm not sure I'd take on that grueling manual task again if I were working with THT components.
